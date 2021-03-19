@@ -1,0 +1,25 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "lab example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ushan1997/sample-Lab.git"
+  },
+  "keywords": [
+    "ushan"
+  ],
+  "author": "ushan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ushan1997/sample-Lab/issues"
+  },
+  "homepage": "https://github.com/ushan1997/sample-Lab#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
