@@ -1,0 +1,39 @@
+1)/2)/3,4,5,6) Stating react project
+npm init
+npm install parcel@next --save
+npm install react react-dom --save
+
+
+
+7),8 Made index.jsx react first elemenrt render hellow world(index.jsx is the stating point) 
+
+9)10)11) Create App.jsx class component and print hellow world(App.jsx is the Second component)
+
+12)/13) Assign post json object and render as a table in App.jsx
+
+15)
+a.PostListItem.jsx =>Make Display data of table row 
+b.Posts.jsx => Create Posts.jsx to hold post list data
+(but post obeject is still in App.jsx)
+c . render Posts.jsx in App.jsx
+16) run it in
+
+Using States to select specific post
+
+17) Add Post component to project.
+Post.jsx => Display selected post separately
+
+18) Define state is null in constructor in Posts.jsx
+
+19) Add method to set this newly added state in the Posts component.
+
+20) Pass this method to Post component created. 
+
+21) Add an action to PostListItem component as the last column
+
+22) 
+
+
+
+
+
